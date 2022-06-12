@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amy</h1>
 <h3 align="center">A passionate full-stack web developer from California</h3>
 
-- 🔭 I’m currently working on [Tictactoe](https://github.com/amyrbaker/tictactoe)
+- 🔭 I’m currently working on [Etch-A-Sketch](https://github.com/amyrbaker/etch-a-sketch)
 
 - 🌱 I’m currently learning **JavaScript**
 
